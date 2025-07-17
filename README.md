@@ -85,10 +85,7 @@ python nombre_del_archivo.py
 
 ---
 
-## 💡 Frase motivadora
 
-> *“No te compares con otros, compárate con quien eras ayer.”*
-> — ¡Sigo avanzando todos los días! 🔥
 
 ---
 
