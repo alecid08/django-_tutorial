@@ -22,4 +22,29 @@ print(len(my_variable))
 
 # Variables en una sola línea
 name, surname, alias, age = "Alejandro", "Cid", "Ale", 17
-print("mi nombre es:", name, ".Mi apellido es:", surname, ".Tengo:", age, "años", ".Mia alias es:", alias)
+print("mi nombre es:", name, surname, ".Tengo:", age, "años", ".Mia alias es:", alias)
+
+# Imputs
+
+"""
+name = input("¿Cuál e tu nombre?")
+age = input("¿Cual es tu edad?")
+print(name)
+print(age)
+"""
+
+ # Cambiamos su tipo
+name = 17
+age = "Alejandro"
+
+print(name)
+print(age)
+
+# ¿Forzamos el tipo?
+address: str = "Mi direccion"
+address = 32
+address = True
+address = 1.5
+print(address)
+
+print(type(address))
