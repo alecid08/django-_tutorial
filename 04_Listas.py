@@ -26,10 +26,6 @@ print("Mi edad es", age, "años")
 print(my_list + my_other_list)
 #print(my_list - my_other_list) Index Error
 
-my_list_change = "Hola Mundo"
-print(my_list)
-print(type(my_list))
-
 my_other_list.append("Alejandro")
 print(my_other_list)
 
@@ -39,5 +35,5 @@ print(my_other_list)
 my_other_list.remove("Blue")
 print(my_other_list)
 
-
-
+my_list.remove(17)
+print(my_list)
